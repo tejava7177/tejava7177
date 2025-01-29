@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![tejava7177's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tejava7177&theme=github-compact)](https://github.com/tejava7177/github-readme-activity-graph)
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tejava7177&rank_icon=github&width=500" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejava7177&layout=compact&langs_count=8&card_width=450" />
+</a>
+
